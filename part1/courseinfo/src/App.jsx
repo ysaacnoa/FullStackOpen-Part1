@@ -61,7 +61,7 @@ const App = () => {
       <Content course={course}/>
 
       <Total course={course}/>
-      {console.log('courseInfo Terminado con Exito :D!')}
+      {console.log('courseInfo Terminado con Exito :D! amazing components')}
     </div>
   )
 }
